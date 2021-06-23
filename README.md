@@ -1,6 +1,4 @@
-# TinkerCad Project Link:
-[Link to Google](https://www.google.com)
-
+# [TinkerCad Project Link:](https://www.tinkercad.com/things/j4pGuvq0QKi-home-automation-original-/editel?sharecode=0O0ztq9Jh3AUHyNvl75hlrVt44fWDGzvYwUtgVvaiPI)
 
 Home automation system using Arduino Uno R3 with LCD Display.
 # Working
